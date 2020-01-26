@@ -12,6 +12,7 @@ This project is under construction
 
 ## TODO's:
 - [ ] Developing UI
+>> Making Login , Signup , contact , Gallery pages etc.
 - [ ] Connection to Database
 - [ ] Spelling Corrections
 - [ ] Adding Good Features
